@@ -17,9 +17,8 @@ Objetivos Especificos
 
 
 **2.Marco Teorico**
-
-
-
+![](https://github.com/JardelMacas/Tareas1y2/blob/main/Dibujo1.png)
+![](https://github.com/JardelMacas/Tareas1y2/blob/main/Dibujo2.png)
 
 
 
