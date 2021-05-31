@@ -1,4 +1,7 @@
 # INFORME TAREA 1 
+
+AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
+
 **1 . OBJETIVOS**
 
 Objetivos Generales
@@ -70,7 +73,13 @@ Link del Video: https://www.youtube.com/watch?v=S7ljptPuCCI
 
 **5. CONCLUSIONES**
 
-* La notacion de ingenieria es de vital importancia para el analisis matematico de los circuitos electricos al simplificar la expresion numerica, lo cual se pudo evidenciar en la resolucion de los ejercicios.
-* 
+* La notacion cientifica y de ingenieria es de vital importancia para el analisis matematico de los circuitos electricos al simplificar la expresion numerica, lo cual se pudo evidenciar en la resolucion de los ejercicios.
+* Los diferentes tipos de diagramas permiten conocer al circuito desde varias perspectivas, mejorando asi su analisis tanto interno como externo.
+* El software para analisis de circuitos como PSpice y Multisim asi como paquetes informaticos como mathlab y mathcad permiten tener mayor precision al realizar el analisis tecnico de un circuito, a su vez permite diseñar un modelo virtual que permita visualizar su correcto funcionamiento.
+* Gracias al modelo atomico de Borh y a la configuracion electronica se pudo conocer mas del electrón y sus capacidades para generar corriente eléctrica dando como resultado la creacion de los conceptos fundamentales de la electronica como lo es la carga, el voltaje y la corriente.
 
 **6.BIBLIOGRAFÍA**
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+
+
