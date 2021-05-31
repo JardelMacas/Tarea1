@@ -1,4 +1,4 @@
-# INFORME TAREA 1 Y 2
+# INFORME TAREA 1 
 **1 . OBJETIVOS**
 
 Objetivos Generales
