@@ -6,10 +6,7 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
 
 Objetivos Generales
 *  Establecer un sistema estandarizado de medidas y conversiones propios de la ingenieria.
-*  Analizar las propiedades electricas del atomo  y sus aplicaciones en la electricidad.
-*  Comprender los conceptos fundamentales de la electricidad.
-*  Conocer la simbología normalizada de los elementos electricos y representar los circuitos en sus diferentes formas.
-*  Exponer los diferentes instrumentos de trabajo existentes en el analisis de un circuito electrico.
+*  Comprender los conceptos fundamentales de la electricidad y su aplicacion en circuitos electricos.
 
 Objetivos Especificos
 
@@ -76,7 +73,9 @@ Link del Video: https://www.youtube.com/watch?v=S7ljptPuCCI
 * La notacion cientifica y de ingenieria es de vital importancia para el analisis matematico de los circuitos electricos al simplificar la expresion numerica, lo cual se pudo evidenciar en la resolucion de los ejercicios.
 * Los diferentes tipos de diagramas permiten conocer al circuito desde varias perspectivas, mejorando asi su analisis tanto interno como externo.
 * El software para analisis de circuitos como PSpice y Multisim asi como paquetes informaticos como mathlab y mathcad permiten tener mayor precision al realizar el analisis tecnico de un circuito, a su vez permite diseñar un modelo virtual que permita visualizar su correcto funcionamiento.
-* Gracias al modelo atomico de Borh y a la configuracion electronica se pudo conocer mas del electrón y sus capacidades para generar corriente eléctrica dando como resultado la creacion de los conceptos fundamentales de la electronica como lo es la carga, el voltaje y la corriente.
+* Gracias al modelo atomico de Borh y a la configuracion electronica se pudo conocer mas del electrón y sus propiedades electricas dando como resultado la creacion de los conceptos fundamentales de la electronica como lo es la carga, el voltaje y la corriente.
+* Los experimentos de Coulomb ayudaron a cuantificar las fuerzas que sentian diferentes cargas dando inicio al concepto de flujo de cargas o corriente electrica.
+* Los elementos fundamentales de un circuito tales como potencia, voltaje y corriente junto a la teoria electrica que los define, son los pilares fundamentales que rigen la teoria de circuitos y en los que se basaran futuros capitulos para detallar mas funcionalidades de los mismos.
 
 **6.BIBLIOGRAFÍA**
 
